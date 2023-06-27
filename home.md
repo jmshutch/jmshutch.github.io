@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "GEOG 728"
     title: "GEOG 728"
-    excerpt: "The GitHub organization for my 'Programming for Geographic Analysis" course at Kansas State University."
+    excerpt: "The GitHub organization for my Programming for Geographic Analysis course at Kansas State University."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
