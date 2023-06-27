@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> GitHub"
+    - label: "<i class='fas fa-github'></i> GitHub"
       url: "https://github.com/jmshutch"
 excerpt: >
   Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory (GISSAL) at Kansas State University.<br />
@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "GISSAL"
     title: "GISSAL Lab"
-    excerpt: "Interdisciplinary lab established in 1991 for spatiotemporal analytics, custom geoprocessing tool programming, GIS service development, and Web-based interactive map design."
+    excerpt: "Interdisciplinary lab established in 1991 for spatiotemporal analytics, custom geoprocessing tool programming, GIS service development, and Web-based map design."
     url: "https://www.ksu.edu/gissal"
     btn_class: "btn--primary"
     btn_label: "Learn more"
