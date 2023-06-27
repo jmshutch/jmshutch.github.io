@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/mm-free-feature.png
     alt: "ADS-B"
     title: "ADS-B Repository"
-    excerpt: "Check out the repo for a current research project being conducted with the National Park Service and the <a href="https://kstateapslab.wixsite.com/appliedparkscience">Applied Park Science Laboratory</a> at Kansas State University."
+    excerpt: "Check out the repo for a current research project being conducted with the National Park Service and the Applied Park Science Laboratory at Kansas State University."
     url: "https://github.com/GISSAL/ads-b"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
