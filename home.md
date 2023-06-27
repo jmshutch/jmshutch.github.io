@@ -22,11 +22,11 @@ feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "GEOG 728"
     title: "GEOG 728"
-    excerpt: "The GitHub organization for my <i>GEOG 728 Programming for Geographic Analysis</i> course at Kansas State University."
+    excerpt: "The GitHub organization for my <i>GEOG 728 Programming for Geographic Analysis</i> course for undergraduates and graduate students at Kansas State University."
     url: "https://github.com/KSU-GEOG-728"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/mm-customizable-feature.png
     alt: "ADS-B"
     title: "ADS-B Repository"
     excerpt: "Check out the repo for a current research project being conducted with the National Park Service and the Applied Park Science Laboratory at Kansas State University."
