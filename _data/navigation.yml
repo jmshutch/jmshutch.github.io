@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "About Me"
+    url: https://storymaps.arcgis.com/stories/196b2b5906c3494eb47d6ef0e0a1ad8d
+  - title: "My CV"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "GISSAL"
+    url: https://www.ksu.edu/gissal
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
