@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "GISSAL"
     title: "GISSAL Lab"
-    excerpt: "Interdisciplinary center established in 1991 for spatiotemporal analytics, custom geoprocessing tool programming, GIS service development, and Web-based interactive map design."
+    excerpt: "Interdisciplinary lab established in 1991 for spatiotemporal analytics, custom geoprocessing tool programming, GIS service development, and Web-based interactive map design."
     url: "https://www.ksu.edu/gissal"
     btn_class: "btn--primary"
     btn_label: "Learn more"
