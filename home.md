@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-github'></i> GitHub"
+    - label: "<i class='fab fa-github'></i> GitHub"
       url: "https://github.com/jmshutch"
 excerpt: >
   Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory (GISSAL) at Kansas State University.<br />
