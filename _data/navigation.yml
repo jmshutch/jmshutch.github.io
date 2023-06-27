@@ -8,7 +8,7 @@ main:
     url: https://www.ksu.edu/gissal
   - title: "K-State Geography"
     url: https://www.ksu.edu/geography
-  - title: "Blog Posts"
-    url: https://www.ksu.edu/geography    
+  # - title: "Blog Posts"
+  #  url: https://www.ksu.edu/geography    
   # - title: "Sitemap"
   #   url: /sitemap/
