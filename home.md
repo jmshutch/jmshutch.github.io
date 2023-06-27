@@ -6,30 +6,30 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> GitHub"
+      url: "https://github.com/jmshutch"
 excerpt: >
   Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory (GISSAL) at Kansas State University.<br />
   <small><a href="https://www.ksu.edu/geography/about/people/faculty/hutchinson.html">Visit my faculty website</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "GISSAL"
+    title: "GISSAL Lab"
+    excerpt: "Spatiotemporal analytics, custom geoprocessing tool programming, GIS service development, and Web-based interactive map design."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "GEOG 728"
+    title: "GEOG 728"
+    excerpt: "The GitHub organization for my 'Programming for Geographic Analysis" course at Kansas State University."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    alt: "ADS-B"
+    title: "ADS-B Repository"
+    excerpt: "Check out the repo for a current research project with the National Park Service."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
