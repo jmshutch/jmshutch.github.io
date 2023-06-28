@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "J.M. Shawn Hutchinson"
+  avatar           : "/assets/images/hutchinson-github.jpg"
+  bio              : "Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory at Kansas State University."
+  location         : "Manhattan, Kansas"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:shutch@ksu.edu"
+      url: "mailto:shutch@ksu.edu"
     - label: "Department Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.ksu.edu/geography"
@@ -121,7 +121,7 @@ author:
       url: "https://github.com/jmshutch"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/gissal"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
