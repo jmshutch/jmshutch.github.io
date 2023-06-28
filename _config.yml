@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "J.M. Shawn Hutchinson"
-  avatar           : "/assets/images/hutchinson-github.jpg"
+  avatar           : "/assets/images/hutchinson_github.jpg"
   bio              : "Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory at Kansas State University."
   location         : "Manhattan, Kansas"
   email            :
