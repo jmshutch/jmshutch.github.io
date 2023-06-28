@@ -6,8 +6,10 @@ main:
     url: /assets/docs/shutch_cv2.pdf
   - title: "GISSAL"
     url: https://www.ksu.edu/gissal
-  - title: "K-State Geography"
-    url: https://www.ksu.edu/geography
+  - title: "Blog"
+    url: /_posts
+  # - title: "K-State Geography"
+  #   url: https://www.ksu.edu/geography
   # - title: "Blog Posts"
   #  url: https://www.ksu.edu/geography    
   # - title: "Sitemap"
