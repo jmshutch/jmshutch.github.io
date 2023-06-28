@@ -7,7 +7,7 @@ main:
   - title: "GISSAL"
     url: https://www.ksu.edu/gissal
   - title: "Blog"
-    url: /_posts
+    url: /_posts/
   # - title: "K-State Geography"
   #   url: https://www.ksu.edu/geography
   # - title: "Blog Posts"
