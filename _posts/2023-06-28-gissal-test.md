@@ -9,7 +9,7 @@ tags:
   - twitter
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🎨 Finally got around to adding all my <a href="https://twitter.com/procreateapp">@procreateapp</a> creations with time lapse videos <a href="https://t.co/1nNbkefC3L">https://t.co/1nNbkefC3L</a> <a href="https://t.co/gcNLJoJ0Gn">pic.twitter.com/gcNLJoJ0Gn</a></p>&mdash; Michael Rose (@mmistakes) <a href="[https://twitter.com/kstate_gissal/status/1653742717468278787)">May 3, 2023</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Python is the most widely used language by GIS analysts and programming is a required skill for most GIS jobs and graduate-level research. Learn to author scripts for novel and efficient data analysis workflows in ArcGIS Pro in GEOG 728. Enroll now for Fall 2023!</p>&mdash; Michael Rose (@mmistakes) <a href="[https://twitter.com/kstate_gissal/status/1653742717468278787)">May 3, 2023</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This post tests Twitter Embeds.
