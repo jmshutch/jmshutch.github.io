@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "GISSAL GitHub"
     title: "GISSAL GitHub"
-    excerpt: "Visit the GISSAL GitHub organizational site which contains repos related to research with both external and Kansas State University collaborating partners."
+    excerpt: "The GitHub organization for the <strong>Geographic Information Systems Spatial Analysis Laboratory</strong> and repos related to research with both external and Kansas State University collaborating partners."
     url: "https://github.com/GISSAL"
     btn_class: "btn--primary"
     btn_label: "See more..."
