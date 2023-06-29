@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "My Persona StoryMap"
+  - title: "My StoryMap"
     url: https://storymaps.arcgis.com/stories/196b2b5906c3494eb47d6ef0e0a1ad8d
-  - title: "Biographical Sketch"
+  - title: "Biosketch"
     url: /about.md
   - title: "Short CV"
     url: /assets/docs/shutch_cv2.pdf
