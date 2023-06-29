@@ -28,7 +28,7 @@ feature_row:
     btn_label: "See more..."
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "GEOG 728"
-    title: "GEOG 728"
+    title: "GEOG 728 GitHub"
     excerpt: "The GitHub organization for my <strong>GEOG 728 Programming for Geographic Analysis</strong> course for undergraduates and graduate students at Kansas State University."
     url: "https://github.com/KSU-GEOG-728"
     btn_class: "btn--primary"
