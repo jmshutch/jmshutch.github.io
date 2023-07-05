@@ -4,7 +4,7 @@ layout: single
 
 <strong>Short Biographical Sketch</strong>
 
-Shawn Hutchinson, Professor of Geography and Director of Kansas State University's <a href="https://www.ksu.edu/gissal">Geographic Information Systems Spatial Analysis Laboratory</a>, studies issues related to grassland and military training land sustainability, surface water resources, and agricultural biosecurity with an increasing emphasis on real- and near-real time environmental monitoring.
+Shawn Hutchinson, Professor of Geography and Director of Kansas State University's <a href="https://www.ksu.edu/gissal" target="_blank">Geographic Information Systems Spatial Analysis Laboratory</a>, studies issues related to grassland and military training land sustainability, surface water resources, and agricultural biosecurity with an increasing emphasis on real- and near-real time environmental monitoring.
 
 He received his bachelor's degree in wildlife biology from <a href="https://www.colostate.edu/">Colorado State University</a> in 1990. He earned his master's degree in 1997 and doctorate in 2000 from <a href="https://www.ksu.edu">Kansas State University</a>. He is also a certified <a href="https://gisci.org">Geographic Information Systems Professional (GISP)</a>. His work has been published in peer-reviewed journals more than 60 times and he has been an investigator on extramurally-funded research grants totaling more than $8 million from agencies including the National Science Foundation, National Institutes of Health, U.S. Department of Agriculture, U.S. Department of Defense, U.S. Department of Interior, and U.S. Geological Survey.
 
