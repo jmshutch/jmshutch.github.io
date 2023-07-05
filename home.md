@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#965D43"
   overlay_image: /assets/images/mm-home-page-feature-satelliteimage.jpg
   actions:
     - label: "<i class='fab fa-github'></i> My GitHub Site"
