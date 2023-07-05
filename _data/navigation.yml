@@ -3,7 +3,7 @@ main:
   - title: "My StoryMap"
     url: https://storymaps.arcgis.com/stories/196b2b5906c3494eb47d6ef0e0a1ad8d
   - title: "Biosketch"
-    url: /about.md
+    url: /about
   - title: "Short CV"
     url: /assets/docs/shutch_cv2.pdf
   - title: "GISSAL"
