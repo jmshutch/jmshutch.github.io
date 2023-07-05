@@ -2,7 +2,7 @@
 layout: single
 ---
 
-## Short Biographical Sketch
+
 
 Shawn Hutchinson, Professor of Geography and Director of Kansas State University's Geographic Information Systems Spatial Analysis Laboratory, studies issues related to grassland and military training land sustainability, surface water resources, and agricultural biosecurity with an increasing emphasis on real- and near-real time environmental monitoring.
 
