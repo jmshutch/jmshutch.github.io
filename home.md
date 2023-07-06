@@ -34,6 +34,13 @@ feature_row:
     url: "https://github.com/KSU-GEOG-728"
     btn_class: "btn--primary"
     btn_label: "See more..."
+  - image_path: /assets/images/mm_coding_feature.jpg
+    alt: "GEOG 728"
+    title: "GEOG 728 GitHub"
+    excerpt: "The GitHub organization for my <strong>GEOG 728 Programming for Geographic Analysis</strong> course for undergraduates and graduate students at Kansas State University."
+    url: "https://github.com/KSU-GEOG-728"
+    btn_class: "btn--primary"
+    btn_label: "See more..."
 ---
 
 {% include feature_row %}
