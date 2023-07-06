@@ -27,18 +27,25 @@ feature_row:
     url: "https://github.com/GISSAL"
     btn_class: "btn--primary"
     btn_label: "See more..."
-  - image_path: /assets/images/mm_coding_feature.jpg
-    alt: "GEOG 728"
-    title: "GEOG 728 GitHub"
-    excerpt: "The GitHub organization for my <strong>GEOG 728 Programming for Geographic Analysis</strong> course for undergraduates and graduate students at Kansas State University."
-    url: "https://github.com/KSU-GEOG-728"
+  - image_path: /assets/images/mm-giscollab-feature.jpg
+    alt: "GIScience Collaboratory"
+    title: "GIScience Collaboratory"
+    excerpt: "The <strong>GIScience Virtual Collaboratory</strong> is a central location to find geospatial resources at Kansas State University and serves as our <strong>UCGIS</strong> membership portolio."
+    url: "https://gis.ksu.edu"
     btn_class: "btn--primary"
-    btn_label: "See more..."
+    btn_label: "See more..."    
   - image_path: /assets/images/mm-agol-feature.jpg
     alt: "KSU AGOL"
     title: "K-State's GIS Portal"
     excerpt: "The <strong>ArcGIS Online Portal for Kansas State University</strong>.  User's may sign in using their K-State eID and password which activates a portal account and ArcGIS Pro license."
     url: "https://kstate.maps.arcgis.com"
+    btn_class: "btn--primary"
+    btn_label: "See more..."
+  - image_path: /assets/images/mm_coding_feature.jpg
+    alt: "GEOG 728"
+    title: "GEOG 728 GitHub"
+    excerpt: "The GitHub organization for my <strong>GEOG 728 Programming for Geographic Analysis</strong> course for undergraduates and graduate students at Kansas State University."
+    url: "https://github.com/KSU-GEOG-728"
     btn_class: "btn--primary"
     btn_label: "See more..."
   - image_path: /assets/images/mm-portal-feature.jpg
@@ -48,13 +55,6 @@ feature_row:
     url: "https://gis-learn.ksu.edu/portal"
     btn_class: "btn--primary"
     btn_label: "See more..."
-  - image_path: /assets/images/mm-giscollab-feature.jpg
-    alt: "GIScience Collaboratory"
-    title: "GIScience Collaboratory"
-    excerpt: "The <strong>GIScience Virtual Collaboratory</strong> is a central location to find geospatial resources at Kansas State University and serves as our <strong>UCGIS</strong> membership portolio."
-    url: "https://gis.ksu.edu"
-    btn_class: "btn--primary"
-    btn_label: "See more..."    
 ---
 
 {% include feature_row %}
