@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/mm_globe_feature.jpg
     alt: "GISSAL"
     title: "GISSAL Research"
-    excerpt: "Interdisciplinary research lab established in 1991 for spatiotemporal analytics, custom geoprocessing tool programming, GIS service development, and Web-based map design."
+    excerpt: "Interdisciplinary <strong>research lab established in 1991</strong> for spatiotemporal analytics, custom geoprocessing tool programming, GIS service development, and Web-based map design."
     url: "https://www.ksu.edu/gissal"
     btn_class: "btn--primary"
     btn_label: "See more..."
