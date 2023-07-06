@@ -34,20 +34,27 @@ feature_row:
     url: "https://github.com/KSU-GEOG-728"
     btn_class: "btn--primary"
     btn_label: "See more..."
-  - image_path: /assets/images/mm_agol_feature.jpg
+  - image_path: /assets/images/mm-agol-feature.jpg
     alt: "KSU AGOL"
     title: "K-State AGOL"
     excerpt: "The ArcGIS Online Portal for Kansas State University.  User's may sign in using their K-State eID and password which activates a portal account and ArcGIS Pro license."
     url: "https://kstate.maps.arcgis.com"
     btn_class: "btn--primary"
     btn_label: "See more..."
-  - image_path: /assets/images/mm_portal_feature.jpg
+  - image_path: /assets/images/mm-portal-feature.jpg
     alt: "GEOG Teaching Portal"
     title: "GEOG Instructional Portal"
     excerpt: "The ArcGIS Enterprise Instructional GIS Portal for the Department of Geography and Geospatial Sciences (for use only by students enrolled in department courses)."
     url: "https://gis-learn.ksu.edu/portal"
     btn_class: "btn--primary"
     btn_label: "See more..."
+  - image_path: /assets/images/mm-giscollab-feature.jpg
+    alt: "GIScience Collaboratory"
+    title: "KSU GIScience Collaboratory"
+    excerpt: "The GIScience Virtual Collaboratory is a central location to find geospatial resources at Kansas State University and serves as our UCGIS membership portolio."
+    url: "https://gis.ksu.edu"
+    btn_class: "btn--primary"
+    btn_label: "See more..."    
 ---
 
 {% include feature_row %}
