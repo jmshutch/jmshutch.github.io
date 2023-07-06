@@ -44,7 +44,7 @@ feature_row:
   - image_path: /assets/images/mm-portal-feature.jpg
     alt: "GEOG Teaching Portal"
     title: "GEOG Instructional Portal"
-    excerpt: "The <strong>ArcGIS Enterprise Instructional GIS Portal</strong> for the Department of Geography and Geospatial Sciences (for use only by students enrolled in department courses)."
+    excerpt: "The <strong>ArcGIS Enterprise Instructional GIS Portal</strong> for the <strong>Department of Geography and Geospatial Sciences</strong> (for use only by students enrolled in department courses)."
     url: "https://gis-learn.ksu.edu/portal"
     btn_class: "btn--primary"
     btn_label: "See more..."
