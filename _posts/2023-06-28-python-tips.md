@@ -1,5 +1,5 @@
 ---
-title: "10 Things to STOP doing in Python"
+title: "10 Things to Stop Doing in Python"
 categories:
   - Python
 tags:
