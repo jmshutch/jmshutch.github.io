@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with ArcGIS Knowledge"
+title: "Learn More about ArcGIS Knowledge"
 categories:
   - GIS 
 tags:
