@@ -50,7 +50,7 @@ feature_row:
     btn_label: "See more..."
   - image_path: /assets/images/mm-giscollab-feature.jpg
     alt: "GIScience Collaboratory"
-    title: "KSU GIScience Collaboratory"
+    title: "GIScience Collaboratory"
     excerpt: "The GIScience Virtual Collaboratory is a central location to find geospatial resources at Kansas State University and serves as our UCGIS membership portolio."
     url: "https://gis.ksu.edu"
     btn_class: "btn--primary"
