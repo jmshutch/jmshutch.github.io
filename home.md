@@ -9,7 +9,7 @@ header:
     - label: "<i class='fab fa-solid fa-link'></i> My Faculty Webpage"
       url: "https://www.ksu.edu/geography/about/people/faculty/hutchinson.html"
 excerpt: >
-  Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory (GISSAL) at Kansas State University.<br />
+  Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory (GISSAL) at Kansas State University. #<br />
   <small><a href="https://www.ksu.edu/geography/about/people/faculty/hutchinson.html">Visit my K-State faculty website</a></small>
   
 feature_row:
