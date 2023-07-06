@@ -9,8 +9,8 @@ header:
     - label: "<i class='fas fa-school'></i> My Faculty Webpage"
       url: "https://www.ksu.edu/geography/about/people/faculty/hutchinson.html"
 excerpt: >
-  Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory (GISSAL) at Kansas State University.<br />
-  <small><a href="https://www.ksu.edu/geography/about/people/faculty/hutchinson.html">Visit my K-State faculty website</a></small>
+  Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory (GISSAL) at Kansas State University.
+  #<br /><small><a href="https://www.ksu.edu/geography/about/people/faculty/hutchinson.html">Visit my K-State faculty website</a></small>
   
 feature_row:
   - image_path: /assets/images/mm_sentinel_feature.jpg
