@@ -158,7 +158,7 @@ footer:
       url: "https://www.twitter.com/kstate_gissal"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/profile.php?id=100062304444463"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
