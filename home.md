@@ -13,7 +13,7 @@ excerpt: >
   <small><a href="https://www.ksu.edu/geography/about/people/faculty/hutchinson.html">Visit my K-State faculty website</a></small>
   
 feature_row:
-  - image_path: /assets/images/mm_globe_feature.jpg
+  - image_path: /assets/images/mm_sentinel_feature.jpg
     alt: "GISSAL"
     title: "Research - GISSAL"
     excerpt: "<strong>Interdisciplinary research lab established in 1991</strong> for spatiotemporal analytics, custom geoprocessing tool programming, GIS service development, and Web-based map design."
