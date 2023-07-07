@@ -6,7 +6,7 @@ header:
   overlay_color: "#965D43"
   overlay_image: /assets/images/mm-home-page-feature-satelliteimage.jpg
   actions:
-    - label: "<i class='fas fa-school'></i> My Faculty Webpage"
+    - label: "<i class='fas fa-solid fa-link'></i> My Faculty Webpage"
       url: "https://www.ksu.edu/geography/about/people/faculty/hutchinson.html"
 excerpt: >
   Professor of Geography and Director of the Geographic Information Systems Spatial Analysis Laboratory (GISSAL) at Kansas State University.
