@@ -1,14 +1,14 @@
 # main links
 main:
-  - title: "My StoryMap"
+  - title: "StoryMap"
     url: https://storymaps.arcgis.com/stories/196b2b5906c3494eb47d6ef0e0a1ad8d
-  - title: "My Short CV"
+  - title: "Short CV"
     url: /assets/docs/shutch_cv2.pdf
-  - title: "My Biosketch"
+  - title: "Biosketch"
     url: /about
-  - title: "My Research Lab"
+  - title: "Research Lab"
     url: https://www.ksu.edu/gissal
-  - title: "My Posts"
+  - title: "Posts"
     url: /year-archive/
   # - title: "K-State Geography"
   #   url: https://www.ksu.edu/geography
