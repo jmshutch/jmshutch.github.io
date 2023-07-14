@@ -1,5 +1,5 @@
 ---
-title: "Adobe Creative Cloud - Free to KSU Faculty & Staff"
+title: "Free Adobe Creative Cloud"
 categories:
   - Media
 tags:
@@ -9,12 +9,6 @@ tags:
 ---
 Great news for K-State faculty and staff:---
 
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">K-State will be providing Adobe Creative Cloud to all faculty and staff free of charge. Adobe Creative Cloud will be automatically provisioned to all K-State faculty and staff after July 31.</p>&mdash; GISSAL (KStateITservice) <a href="[https://twitter.com/KStateITservice)">May 3, 2023</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Python is the most widely used language by GIS analysts and programming is a required skill for most GIS jobs and graduate-level research. Learn to author scripts for novel and efficient data analysis workflows in ArcGIS Pro in GEOG 728. Enroll now for Fall 2023!</p>&mdash; GISSAL (@kstate_gissal) <a href="[https://twitter.com/KStateITservice)">May 3, 2023</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Python is the most widely used language by GIS analysts and programming is a required skill for most GIS jobs and graduate-level research. Learn to author scripts for novel and efficient data analysis workflows in ArcGIS Pro in GEOG 728. Enroll now for Fall 2023!</p>&mdash; GISSAL (@kstate_gissal) <a href="[https://twitter.com/kstate_gissal/status/1653742717468278787)">May 3, 2023</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Here's the <a href="https://blogs.k-state.edu/it-news/2023/07/13/adobe-creative-cloud-available-for-free-to-faculty-and-staff-aug-1/">full story</a> from the IT News blog site.  More news forthcoming about access to the software, which includes more than 20 applications and services.
