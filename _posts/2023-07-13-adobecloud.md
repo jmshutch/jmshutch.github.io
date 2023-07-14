@@ -7,7 +7,7 @@ tags:
   - design
   - twitter
 ---
-Great news for K-State faculty and staff:---
+Great news for K-State faculty and staff:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">K-State will be providing Adobe Creative Cloud to all faculty and staff free of charge. Adobe Creative Cloud will be automatically provisioned to all K-State faculty and staff after July 31.</p>&mdash; K-State IT Service Desk (@KStateITservice) <a href="[https://twitter.com/KStateITservice)">3uly 13, 2023</a></blockquote><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
