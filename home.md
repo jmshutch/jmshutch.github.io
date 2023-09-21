@@ -28,6 +28,13 @@ feature_row:
     url: "https://github.com/GISSAL"
     btn_class: "btn--primary"
     btn_label: "See more..."
+  - image_path: /assets/images/new-ag-photo-sm.jpg
+    alt: "ID3A"
+    title: "Digital Agriculture"
+    excerpt: "The Kansas State University <strong>Institute for Digital Agriculture and Advanced Analytics</strong>; the first interdiscplinary institute launched under the Next-Gen K-State Strategic Plan."
+    url: "https://www.k-state.edu/strategic-planning/interdisciplinary-institutes/digital-ag-advanced-analytics/"
+    btn_class: "btn--primary"
+    btn_label: "See more..."
   - image_path: /assets/images/mm-giscollab-feature.jpg
     alt: "GIScience Collaboratory"
     title: "GIScience Collaboratory"
@@ -40,13 +47,6 @@ feature_row:
     title: "K-State's GIS Portal"
     excerpt: "The <strong>ArcGIS Online Portal for Kansas State University</strong>.  User's may sign in using their K-State eID and password which activates a portal account and ArcGIS Pro license."
     url: "https://kstate.maps.arcgis.com"
-    btn_class: "btn--primary"
-    btn_label: "See more..."
-  - image_path: /assets/images/new-ag-photo-sm.jpg
-    alt: "ID3A"
-    title: "Digital Agriculture"
-    excerpt: "The Kansas State University <strong>Institute for Digital Agriculture and Advanced Analytics</strong>; the first interdiscplinary institute launched under the Next-Gen K-State Strategic Plan."
-    url: "https://www.k-state.edu/strategic-planning/interdisciplinary-institutes/digital-ag-advanced-analytics/"
     btn_class: "btn--primary"
     btn_label: "See more..."
   - image_path: /assets/images/mm-portal-feature.jpg
