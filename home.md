@@ -42,11 +42,11 @@ feature_row:
     url: "https://kstate.maps.arcgis.com"
     btn_class: "btn--primary"
     btn_label: "See more..."
-  - image_path: /assets/images/mm_coding_feature.jpg
-    alt: "GEOG 728"
-    title: "GEOG 728 GitHub"
+  - image_path: /assets/images/new-ag-photo-sm.jpg
+    alt: "ID3A"
+    title: "ID3A"
     excerpt: "The GitHub organization for my <strong>GEOG 728 Programming for Geographic Analysis</strong> course for undergraduates and graduate students at Kansas State University."
-    url: "https://github.com/KSU-GEOG-728"
+    url: "https://github.com/KSU-GEOG-728](https://www.k-state.edu/strategic-planning/interdisciplinary-institutes/digital-ag-advanced-analytics/"
     btn_class: "btn--primary"
     btn_label: "See more..."
   - image_path: /assets/images/mm-portal-feature.jpg
