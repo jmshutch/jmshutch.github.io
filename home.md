@@ -45,7 +45,7 @@ feature_row:
   - image_path: /assets/images/new-ag-photo-sm.jpg
     alt: "ID3A"
     title: "Digital Agriculture"
-    excerpt: "The interdisciplinary <strong>Institute for Digital Agriculture and Advanced Analytics</strong> at Kansas State University."
+    excerpt: "The Kansas State University <strong>Institute for Digital Agriculture and Advanced Analytics</strong>; the first interdiscplinary institute launched under the Next-Gen K-State Strategic Plan."
     url: "https://github.com/KSU-GEOG-728](https://www.k-state.edu/strategic-planning/interdisciplinary-institutes/digital-ag-advanced-analytics/"
     btn_class: "btn--primary"
     btn_label: "See more..."
