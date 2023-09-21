@@ -44,7 +44,7 @@ feature_row:
     btn_label: "See more..."
   - image_path: /assets/images/new-ag-photo-sm.jpg
     alt: "ID3A"
-    title: "ID3A"
+    title: "Digital Agriculture"
     excerpt: "The interdisciplinary <strong>Institute for Digital Agriculture and Advanced Analytics</strong> at Kansas State University."
     url: "https://github.com/KSU-GEOG-728](https://www.k-state.edu/strategic-planning/interdisciplinary-institutes/digital-ag-advanced-analytics/"
     btn_class: "btn--primary"
