@@ -18,7 +18,7 @@ feature_row:
     alt: "ID3A"
     title: "Digital Agriculture"
     excerpt: "The Kansas State University <strong>Institute for Digital Agriculture and Advanced Analytics</strong>; the first interdiscplinary institute launched under the Next-Gen K-State Strategic Plan."
-    url: "https://www.ksu.edu/id3a
+    url: "https://www.ksu.edu/id3a"
     btn_class: "btn--primary"
     btn_label: "See more..."
   - image_path: /assets/images/mm_sentinel_feature.jpg
