@@ -59,7 +59,7 @@ feature_row:
   - image_path: /assets/images/mm_intelchip_feature.jpg
     alt: "GISSAL GitHub"
     title: "GISSAL GitHub"
-    excerpt: "The GitHub organization for the <strong>Geographic Information Systems Spatial Analysis Laboratory (GISSAL)</strong> with repositories of current and past research."
+    excerpt: "The GitHub organization for the <strong>Geographic Information Systems Spatial Analysis Laboratory (GISSAL)</strong> with repositories for current and past research."
     url: "https://github.com/GISSAL"
         
 ---
