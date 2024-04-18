@@ -19,33 +19,33 @@ feature_row:
     title: "Digital Agriculture"
     excerpt: "The Kansas State University <strong>Institute for Digital Agriculture and Advanced Analytics</strong>; the first interdiscplinary institute launched under the Next-Gen K-State Strategic Plan."
     url: "https://www.ksu.edu/id3a"
-
     btn_class: "btn--primary"
     btn_label: "See more..."
+    
   - image_path: /assets/images/mm-giscollab-feature.jpg
     alt: "GIScience Collaboratory"
     title: "GIScience Collaboratory"
     excerpt: "The <strong>GIScience Virtual Collaboratory</strong> is a central location to find geospatial resources at Kansas State University and serves as our <strong>UCGIS membership portolio</strong>."
     url: "https://gis.ksu.edu"
-    
     btn_class: "btn--primary"
-    btn_label: "See more..."    
+    btn_label: "See more..."
+      
   - image_path: /assets/images/mm-agol-feature.jpg
     alt: "KSU AGOL"
     title: "K-State's GIS Portal"
     excerpt: "The <strong>ArcGIS Online Portal</strong> for <strong>Kansas State University</strong>.  User's may sign in using their K-State eID and password which activates a portal account and ArcGIS Pro license."
     url: "https://kstate.maps.arcgis.com"
-    
     btn_class: "btn--primary"
     btn_label: "See more..."
+    
   - image_path: /assets/images/mm_sentinel_feature.jpg
     alt: "GISSAL"
     title: "GISSAL Homepage"
     excerpt: "<strong>Interdisciplinary research lab established in 1991</strong> for spatiotemporal analytics, custom geoprocessing tool programming, GIS service development, and Web-based map design."
     url: "https://www.ksu.edu/gissal"
-
     btn_class: "btn--primary"
     btn_label: "See more..."
+    
   - image_path: /assets/images/mm-portal-feature.jpg
     alt: "GISSAL Portal"
     title: "GISSAL GIS Portal"
@@ -54,14 +54,13 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "See more..."
         
-    btn_class: "btn--primary"
-    btn_label: "See more..."
   - image_path: /assets/images/mm_intelchip_feature.jpg
     alt: "GISSAL GitHub"
     title: "GISSAL GitHub"
     excerpt: "The GitHub organization for the <strong>Geographic Information Systems Spatial Analysis Laboratory (GISSAL)</strong> with repositories for current and past research."
     url: "https://github.com/GISSAL"
-        
+    btn_class: "btn--primary"
+    btn_label: "See more..."    
 ---
 
 {% include feature_row %}
