@@ -57,7 +57,7 @@ feature_row:
   - image_path: /assets/images/mm-portal-feature.jpg
     alt: "GISSAL Portal"
     title: "GISSAL GIS Portal"
-    excerpt: "The <strong>ArcGIS Online Portal</strong> for the <strong>Geographic Information Systems Spatial Analysis Laboratory (GISSAL)."
+    excerpt: "The <strong>ArcGIS Online Portal</strong> for the <strong>Geographic Information Systems Spatial Analysis Laboratory (GISSAL) with featured maps and applications from current projects."
     url: "https://gissal.maps.arcgis.com/home/index.html"
     btn_class: "btn--primary"
     btn_label: "See more..."
