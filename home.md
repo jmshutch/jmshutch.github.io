@@ -53,7 +53,7 @@ feature_row:
     alt: "GISSAL Portal"
     title: "GISSAL GIS Portal"
     excerpt: "The <strong>ArcGIS Online Portal</strong> for the <strong>Geographic Information Systems Spatial Analysis Laboratory (GISSAL)."
-    url: "https://gis-learn.ksu.edu/portal"
+    url: "https://gissal.maps.arcgis.com/home/index.html"
     btn_class: "btn--primary"
     btn_label: "See more..."
 ---
