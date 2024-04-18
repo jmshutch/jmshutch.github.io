@@ -33,7 +33,7 @@ feature_row:
   - image_path: /assets/images/mm-agol-feature.jpg
     alt: "KSU AGOL"
     title: "K-State's GIS Portal"
-    excerpt: "The <strong>ArcGIS Online Portal for Kansas State University</strong>.  User's may sign in using their K-State eID and password which activates a portal account and ArcGIS Pro license."
+    excerpt: "The <strong>ArcGIS Online Portal</strong> for <strong>Kansas State University</strong>.  User's may sign in using their K-State eID and password which activates a portal account and ArcGIS Pro license."
     url: "https://kstate.maps.arcgis.com"
     
     btn_class: "btn--primary"
